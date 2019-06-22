@@ -1,1 +1,3 @@
-# Sklep_Baza-danych
+## Baza danych
+
+### Sklep internetowy
